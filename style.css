@@ -75,14 +75,14 @@ h1 {
 
 .split.left {
   left: 0;
-  background: url("imgs/women_img.jpg");
+  background: url("Imgs/women_img.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .split.right {
   right: 0;
-  background: url("imgs/men_img.jpg");
+  background: url("Imgs/men_img.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
